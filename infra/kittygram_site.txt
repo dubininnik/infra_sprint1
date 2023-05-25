@@ -1,0 +1,5 @@
+IP: 158.160.28.206;
+name_taski: https://nikkin.sytes.net;
+name_kittygram: https://nikkin.hopto.org;
+login: yc-user;
+password: Lq4-Xtk-E6D-nJJ;
