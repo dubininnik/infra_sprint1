@@ -86,8 +86,25 @@ pip install -r requirements.txt
 python manage.py migrate
 
 
+##### Создаем суперпользователя выполняя команду и отвечая на вопросы системы:
+
+python manage.py createsuperuser
+
+
+##### В папке /infra_sprint1/backend/kittygram_backend создаем файл переменных
+##### окружения и заполняем его согласно файла-примера .env-example находяшегося
+##### в той же папке
+
+cd kittygram_backend
+
+cp .env-example .env
+
+nano .env
+
+
 ##### Запускаем backend: 
 
+cd ..
 
 python manage.py runserver
 
