@@ -91,9 +91,7 @@ python manage.py migrate
 python manage.py createsuperuser
 
 
-##### В папке /infra_sprint1/backend/kittygram_backend создаем файл переменных
-##### окружения и заполняем его согласно файла-примера .env-example находяшегося
-##### в той же папке
+##### В папке /infra_sprint1/backend/kittygram_backend создаем файл переменных окружения и заполняем его согласно файла-примера .env-example находяшегося в той же папке
 
 cd kittygram_backend
 
